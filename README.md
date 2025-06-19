@@ -35,8 +35,9 @@ Ele aborda três temas principais:
 1. Clone ou faça o download do projeto:
 
    ```bash
-   git clone https://github.com/Jessiessalgado/wiki-moderno.git
-   cd wiki-moderno
+   git clone https://github.com/Jessiessalgado/Recriando-o-Wikipedia-com-Layout-Moderno.git
+   cd Recriando-o-Wikipedia-com-Layout-Moderno
+
 
 2. Abra o arquivo `index.html` no seu navegador.
 
